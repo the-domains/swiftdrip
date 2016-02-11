@@ -1,7 +1,7 @@
 name: swiftdrip
 favicon: null
-layout_spectrum: 0.7218543940689415
-typography_spectrum: 0.49043841916136444
+layout_spectrum: 0.99904
+typography_spectrum: 0.21291
 title: Learn Swift drip by drip
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ebebeb'
-    - '#303030'
-    - '#bfbfbf'
-    - '#868686'
-    - '#707070'
+    - '#1d393a'
+    - '#ebdddc'
+    - '#ad9990'
+    - '#706f75'
+    - '#45a6af'
   brandStrength: 0.875
   lightness: 0.7659437377005816
-  saturation: 0.0625
-  rhythmicContrast: 0.7401226467918605
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
